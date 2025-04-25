@@ -1,3 +1,9 @@
+gz-cmake4 (4.2.0-1~jammy) jammy; urgency=medium
+
+  * gz-cmake4 4.2.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 25 Apr 2025 18:41:41 +0000
+
 gz-cmake4 (4.1.1-1~jammy) jammy; urgency=medium
 
   * gz-cmake4 4.1.1-1 release
